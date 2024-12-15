@@ -70,7 +70,7 @@ python tools/export_onnx.py -c configs/rtdetr/rtdetr_r18vd_6x_coco.yml -r path/t
 ```
 
 ### Dataset
-#### The UrbanTree Dataset is in the `dataset` directory in this repository.
+#### The UrbanTree Dataset is in the 🚀 `dataset` 🚀 directory in this repository.
 The structure below will be generated based on the dataset made available in this repository, when using google colab: [improving_urban_treetop_detection_with_RT-DETR.ipynb](https://github.com/wedrey/urban-treetop-detection-rt-detr/blob/main/improving_urban_treetop_detection_with_RT-DETR.ipynb).
 
   ```
