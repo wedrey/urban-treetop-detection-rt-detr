@@ -5,7 +5,7 @@ This repository explores the application of the RT-DETR ([Zhao et al.](https://g
 
 ### RT-DETR Performance
 
-| Backbone               | Input shape | Dataset       | DA | AP<sub>50</sub> |
+| Method/Backbone        | Input shape | Dataset       | DA | AP<sub>50</sub> |
 |------------------------|-------------|---------------|----|-----------------|
 | RT-DETR-DLA34         | 512         | UrbanTree     | N  | 0.645           |
 | RT-DETR-ResNet18 (VD) | 512         | UrbanTree     | N  | 0.615           |
@@ -16,7 +16,7 @@ This repository explores the application of the RT-DETR ([Zhao et al.](https://g
 | RT-DETR-ResNet-101 (VD) | 512       | UrbanTree     | N  | 0.658           |
 
 
-| Backbone               | Input shape | Dataset       | DA | AP<sub>50</sub> |
+| Method/Backbone        | Input shape | Dataset       | DA | AP<sub>50</sub> |
 |------------------------|-------------|---------------|----|-----------------|
 | RT-DETR-DLA34         | 512         | UrbanTree     | Y  | 0.687           |
 | RT-DETR-ResNet18 (VD) | 512         | UrbanTree     | Y  | 0.706           |
